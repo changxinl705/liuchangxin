@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+= Publications
+
+== Submitted works
+
+- *Changxin Liu*, Huiping Li and Yang Shi, [https://arxiv.org/abs/1809.06008 Distributed subgradient method for convex constrained optimization: Non-ergodic convergence guarantees]. arXiv, preprint.
+
+- *Changxin Liu*, Huiping, Yang Shi and Demin Xu, Distributed event-triggered gradient method for constrained convex minimization.
+
+- *Changxin Liu*, Huiping Li, Yang Shi and Demin Xu, Distributed event-triggered model predictive control of coupled nonlinear systems.
+
+- *Changxin Liu*, Huiping Li, Yang Shi and Demin Xu, Co-design of event trigger and feedback policy in robust model predictive control. Conditionally accepted to IEEE Transactions on Automatic Control
+
+== Journal papers
+
+- (J3) *Changxin Liu*, Huiping Li, Jian Gao and Demin Xu, Robust self-triggered min-max model predictive control for discrete-time nonlinear systems. Automatica, 89: 333-339, 2018.
+
+- (J2) *Changxin Liu*, Jian Gao, Huiping Li and Demin Xu, Aperiodic robust model predictive control for constrained continuous-time nonlinear systems: An event-triggered approach. IEEE Transactions on Cybernetics, 48(5): 1397-1405, 2018.
+
+- (J1) *Changxin Liu*, Jian Gao and Demin Xu, Lyapunov-based model predictive control for tracking of nonholonomic mobile robots under input constraints. International Journal of Control, Automation and Systems, 15(5): 2313-2319, 2017.
+
+== Selected conference proceedings
